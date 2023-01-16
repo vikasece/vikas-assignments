@@ -1,0 +1,32 @@
+{
+  "name": "namsthe-react",
+  "version": "1.0.0",
+  "description": "learning-advanced",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikasece/namasthe-react.git"
+  },
+  "author": "Vikas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikasece/namasthe-react/issues"
+  },
+  "homepage": "https://github.com/vikasece/namasthe-react#readme",
+  "dependencies": {
+    "browserslist": "^4.21.4",
+    "parcel": "^2.8.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "browsersList": [
+    "last 2 chrome versions"
+  ]
+}
