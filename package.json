@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/vikasece/namasthe-react#readme",
   "dependencies": {
+    "@babel/core": "^7.20.12",
     "browserslist": "^4.21.4",
     "parcel": "^2.8.2",
     "react": "^18.2.0",
